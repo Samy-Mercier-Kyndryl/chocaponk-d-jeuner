@@ -1,0 +1,6 @@
+[submodule "chocaponk-front"]
+	path = chocaponk-front
+	url = https://github.com/Samy-Mercier-Kyndryl/chocaponk-front
+[submodule "chocaponk-back"]
+	path = chocaponk-back
+	url = https://github.com/Samy-Mercier-Kyndryl/chocaponk-back
